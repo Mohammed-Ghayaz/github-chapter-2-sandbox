@@ -1,1 +1,1 @@
-Simple readme file for GIT command tutorial
+Hello I am Mohammed Ghayaz
